@@ -1,0 +1,5 @@
+spigot.jar
+.settings/
+.classpath
+.project
+bin/

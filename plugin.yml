@@ -1,0 +1,11 @@
+name: InventoryRollback
+main: xyz.finlaym.invrollback.Main
+author: finlaywashere
+version: 1
+commands:
+  invrollback:
+    description: Rolls back a player's inventory
+    permission: invrollback.rollback
+permissions:
+  invrollback.rollback:
+    description: Allows a player to roll back a user's inventory
